@@ -12,10 +12,10 @@ The site should work for recruiters in both interior design and finance/business
 
 The primary audience is:
 
-* Recruiters
-* Hiring managers
-* Potential employers
-* Professional connections
+- Recruiters
+- Hiring managers
+- Potential employers
+- Professional connections
 
 Visitors should be able to understand Ariel's background quickly and easily find more detailed information if they are interested.
 
@@ -28,7 +28,7 @@ The website should:
 3. Highlight her experience as a four-year varsity student-athlete.
 4. Show the connection between her interior design, business, and finance background.
 5. Highlight her multicultural experience.
-6. Give recruiters easy ways to contact her, view her LinkedIn, and download her resume.
+6. Give recruiters easy ways to contact her, view her LinkedIn, and access her resume.
 
 ## Personal Brand
 
@@ -64,21 +64,21 @@ The Education section should clearly show Ariel's academic path.
 
 ### High School
 
-Florida
+Florida  
 Graduated 2021
 
 ### Savannah College of Art and Design (SCAD)
 
-Graduated 2025
-Major: Interior Design
-Minor: Business
-Four-year varsity student-athlete
+Graduated 2025  
+Major: Interior Design  
+Minor: Business  
+Four-year varsity student-athlete  
 Full athletic scholarship
 
 ### Columbia University – SIPA
 
-Current graduate student
-Expected graduation: 2028
+Current graduate student  
+Expected graduation: 2028  
 Finance-focused studies
 
 Exact degree names and other academic details should follow Ariel's resume.
@@ -93,17 +93,17 @@ The Home page should give recruiters a quick introduction to Ariel.
 
 It should include:
 
-* Ariel's name
-* Professional headshot
-* Short introduction
-* Current Columbia graduate student status
-* Interior Design + Business + Finance background
-* Multicultural background
-* Four-year varsity student-athlete experience
-* Main navigation
-* Contact button
-* LinkedIn button
-* Resume button
+- Ariel's name
+- Professional headshot
+- Short introduction
+- Current Columbia graduate student status
+- Interior Design + Business + Finance background
+- Multicultural background
+- Four-year varsity student-athlete experience
+- Main navigation
+- Contact button
+- LinkedIn button
+- Resume button
 
 The first screen should communicate what makes Ariel different without requiring the visitor to read a large amount of text.
 
@@ -113,14 +113,14 @@ The About page should tell Ariel's story in a more personal way.
 
 It should include:
 
-* Beijing background
-* Transition to studying in the United States
-* Golf training in Florida
-* Student-athlete experience
-* SCAD experience
-* Transition from interior design and business into finance
-* Current graduate studies at Columbia
-* Languages
+- Beijing background
+- Transition to studying in the United States
+- Golf training in Florida
+- Student-athlete experience
+- SCAD experience
+- Transition from interior design and business into finance
+- Current graduate studies at Columbia
+- Languages
 
 The writing should remain professional but should feel more personal than a resume.
 
@@ -142,13 +142,15 @@ The Experience page should include both professional experience and selected int
 
 Each experience should include:
 
-* Organization/company
-* Position
-* Dates
-* Location if relevant
-* Short description or selected responsibilities/accomplishments
+- Organization/company
+- Position
+- Dates
+- Location if relevant
+- Short description or selected responsibilities/accomplishments
 
 All information should come directly from Ariel's resume.
+
+Company names should link to their official websites when possible. This gives visitors who may not be familiar with a company an easy way to learn more about it without adding too much information directly to the Experience page.
 
 #### Selected Interior Design Projects
 
@@ -156,11 +158,11 @@ Relevant SCAD or personal design projects can also appear on this page.
 
 Projects may include:
 
-* Project name
-* Short description
-* Renderings or project images
-* Design concept
-* Relevant tools or skills
+- Project name
+- Short description
+- Renderings or project images
+- Design concept
+- Relevant tools or skills
 
 Only available and approved project materials should be included.
 
@@ -170,9 +172,9 @@ The Contact page should make it easy for recruiters to connect with Ariel.
 
 It should include:
 
-* Email
-* LinkedIn
-* Resume download
+- Email
+- LinkedIn
+- Resume access
 
 Ariel's preferred professional email should be confirmed before the site is finalized.
 
@@ -180,9 +182,9 @@ Ariel's preferred professional email should be confirmed before the site is fina
 
 The three main actions throughout the website are:
 
-* Email Ariel
-* View LinkedIn
-* Download Resume
+- Email Ariel
+- View LinkedIn
+- View Resume
 
 These should be easy to find, especially on the Home and Contact pages.
 
@@ -190,11 +192,11 @@ These should be easy to find, especially on the Home and Contact pages.
 
 The overall visual style should be:
 
-* Minimal
-* Professional
-* Modern
-* Clean
-* Easy to navigate
+- Minimal
+- Professional
+- Modern
+- Clean
+- Easy to navigate
 
 ### Colors
 
@@ -202,4 +204,44 @@ The main color should be light blue.
 
 Supporting colors should include:
 
-* Whit
+- White
+- Neutral colors
+- Dark text for readability
+
+The colors should support the professional style of the website without making the design feel too corporate.
+
+### Layout
+
+The layout should feel open and simple.
+
+The website should avoid:
+
+- Too much text on one screen
+- Crowded layouts
+- Too many colors
+- Unnecessary visual elements
+
+The goal is to make Ariel's information easy to understand while still giving the website a strong visual identity.
+
+## Mobile Experience
+
+The website should work well on both desktop and mobile devices.
+
+Important information, navigation, images, and buttons should remain easy to use on smaller screens. Mobile testing should be part of the development process, especially because Ariel may review and share the website from her phone.
+
+## Content Requirements
+
+The website should use accurate information provided or approved by Ariel.
+
+Professional experience, education, dates, and other resume-related information should follow her current resume.
+
+Personal photographs, project images, and other materials should only be included if Ariel approves them.
+
+
+## Later Priorities
+
+After completing these changes, the remaining features were prioritized based on my client's feedback:
+
+1. Add selected interior design projects when approved materials are available.
+2. Continue improving the presentation of the Experience section.
+3. Continue testing and improving the website on mobile devices.
