@@ -45,7 +45,8 @@
             <div class="contact-card__icon">&#9993;</div>
             <h3>Email</h3>
             <p>lwzhu66@outlook.com</p>
-            <a class="btn btn--primary" href="mailto:lwzhu66@outlook.com">Send an Email</a>
+            <!-- Opens Outlook web compose directly since mailto: requires a desktop mail client -->
+            <a class="btn btn--primary" href="https://outlook.live.com/mail/0/deeplink/compose?to=lwzhu66@outlook.com" target="_blank" rel="noopener">Send an Email</a>
           </div>
 
           <div class="contact-card">
@@ -54,7 +55,41 @@
             <p>941-266-6216</p>
             <a class="btn btn--outline" href="tel:+19412666216">Call Me</a>
           </div>
+
+          <div class="contact-card">
+            <div class="contact-card__icon">&#128196;</div>
+            <h3>Resume</h3>
+            <p>Download a traditional CV copy.</p>
+            <a class="btn btn--outline" href="assets/resume/Ariel-Zhu-Resume.pdf" download>Download Resume</a>
+          </div>
         </div>
+      </div>
+    </section>
+
+    <section class="section section--alt">
+      <div class="container" style="max-width: 640px;">
+        <div class="section__header">
+          <p class="section__eyebrow">Send a Message</p>
+          <h2>Prefer a form?</h2>
+          <p class="section__intro">Fill this out and it will be sent straight to Ariel's inbox.</p>
+        </div>
+
+        <!-- Formspree's email-based endpoint: first submission triggers a one-time confirmation email to activate it; swap for a registered form ID (formspree.io/f/xxxxxxxx) afterward for a dashboard -->
+        <form class="contact-form" action="https://formspree.io/f/lwzhu66@outlook.com" method="POST">
+          <div class="form-field">
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" required />
+          </div>
+          <div class="form-field">
+            <label for="email">Your Email</label>
+            <input type="email" id="email" name="_replyto" required />
+          </div>
+          <div class="form-field">
+            <label for="message">Message</label>
+            <textarea id="message" name="message" rows="5" required></textarea>
+          </div>
+          <button type="submit" class="btn btn--primary">Send Message</button>
+        </form>
       </div>
     </section>
   </main>
